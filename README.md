@@ -10,21 +10,26 @@
 
 
 ## 👾 [ET Cutout Animator](https://github.com/Chafalleiro/ETCutoutAnimator)
- 
-Pixel art oriented parts animator for games. Create spritesheets and reusable animations. [(Installer)](https://github.com/Chafalleiro/ETCutoutAnimator/releases#release-untagged-0d908dc27efd98e1af0f) ![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETCutoutAnimator?link=https://github.com/Chafalleiro/ETCutoutAnimator) 
+
+Pixel art oriented parts animator for games. Create spritesheets and reusable animations. [(Installer)](https://github.com/Chafalleiro/ETCutoutAnimator/releases#release-untagged-0d908dc27efd98e1af0f)
+
+![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETCutoutAnimator?link=https://github.com/Chafalleiro/ETCutoutAnimator) 
 
 ***
 
-##  🖥️  [ETResPackage](https://github.com/Chafalleiro/ETRes)
- 
-Windows Resource File (.res) Management package for FPC, Lazarus and Ryphon. [(Project files and examples)](https://github.com/Chafalleiro/ETRes/releases) ![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETRes?link=https://github.com/Chafalleiro/ETRes) 
+##  🖥️ [ETResPackage](https://github.com/Chafalleiro/ETRes)
 
-##  🕸️  [ETEdit](https://github.com/Chafalleiro/ETEdit)
- 
-Static HTML editor with plugin capabilities Compiled woith Typon V-IDE 8.8. Currently in active developement, no releases yet. Source available for CodeTyphon.![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETEdit)
+Windows Resource File (.res) Management package for FPC, Lazarus and Ryphon. [(Project files and examples)](https://github.com/Chafalleiro/ETRes/releases)
+
+![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETRes?link=https://github.com/Chafalleiro/ETRes) 
+
+## 🕸️ [ETEdit](https://github.com/Chafalleiro/ETEdit)
+
+Static HTML editor with plugin capabilities Compiled woith Typon V-IDE 8.8. Currently in active developement, no releases yet. Source available for CodeTyphon.
+
+![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETEdit)
+
 ***
-
-+ ![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/Retromator)
 
 ## 🙏 Support the proyect
 
@@ -41,6 +46,4 @@ If something here has bee useful for, please consider help me keep growing and m
 **Ethereum / BSC / Polygon:**
 [![Static Badge](https://img.shields.io/badge/chafalleiro.uni.eth-Donation?style=for-the-badge&logo=polygon)](https://app.uniswap.org/portfolio/0x62f830706b0Dd6B6753e27272A3A21ab8f4a328e)
 
-### ⭐ GitHub Sponsors
-
-Cada granito de arena cuenta. ¡Gracias por tu apoyo! 💙
+¡Thanks for yor support! 💙
