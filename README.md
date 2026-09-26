@@ -12,6 +12,12 @@
 
 # Ready.
 
+##  🖥️ [norandr](https://github.com/Chafalleiro/norandr)
+
+Tool to write xorg.conf resolutions when there are troubles. Just automated some commands to trobleshot X11 resolution/EDID issues, the procedure is explained in the readme.
+
+![GitHub Created At](https://img.shields.io/github/created-at/Chafalleiro/ETRes?link=https://github.com/Chafalleiro/norandr) 
+
 ## 👾 [ET Cutout Animator](https://github.com/Chafalleiro/ETCutoutAnimator)
 
 Pixel art oriented parts animator for games. Create spritesheets and reusable animations. [(Installer)](https://github.com/Chafalleiro/ETCutoutAnimator/releases#release-untagged-0d908dc27efd98e1af0f)
